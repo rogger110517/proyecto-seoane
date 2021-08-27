@@ -1,0 +1,9 @@
+.list ul {
+  list-style: none;
+}
+.list ul li {
+  color: #000;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
